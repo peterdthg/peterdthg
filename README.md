@@ -7,6 +7,6 @@
 - 💬 Ask me about anything, visit my website
 
 <details id="contact-me">
- ###<summary>Contact me</a></summary>
+ ### <summary>Contact me</a></summary>
   - peter [at] dziembor [dot] com
 </details>
