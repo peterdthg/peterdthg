@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning a bit of everything
 - 💬 Ask me about anything, visit my website
 
-<details id="contact-me">
- ### <summary>Contact me</a></summary>
-  - peter [at] dziembor [dot] com
+### <details id="contact-me"><summary>Contact me</a></summary>
+ - peter [at] dziembor [dot] com
 </details>
